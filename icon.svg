@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+  <title>Claude tools</title>
+  <path d="M5 4h14a2 2 0 0 1 2 2v9a2 2 0 0 1-2 2h-8l-5 4v-4H5a2 2 0 0 1-2-2V6a2 2 0 0 1 2-2z"/>
+  <path d="M12 6.5l1.2 2.8 2.8 1.2-2.8 1.2-1.2 2.8-1.2-2.8L8 10.5l2.8-1.2z"/>
+</svg>

@@ -2,7 +2,7 @@
   "id": "claude-tools",
   "name": "Claude tools",
   "description": "Buttons in a Claude chat's message box: capture the phone's screen or snip this one into the message, and tidy your draft.",
-  "icon": "WandSparkles",
+  "icon": "icon.svg",
   "color": "#a78bfa",
   "version": "0.1.0",
   "minDeck": "1.17.4",
