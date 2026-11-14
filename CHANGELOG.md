@@ -1,6 +1,6 @@
 # Changelog
 
-## 0.1.0
+## 1.0.0 (2026-11-14)
 
 - First version, split out of Claude status: buttons in a Claude chat's message box row to capture the
   phone's screen or snip this one into the message, add a recent capture again, and tidy the draft

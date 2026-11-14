@@ -4,7 +4,7 @@
   "description": "Buttons in a Claude chat's message box: capture the phone's screen or snip this one into the message, and tidy your draft.",
   "icon": "icon.svg",
   "color": "#a78bfa",
-  "version": "0.1.0",
-  "minDeck": "1.17.4",
+  "version": "1.0.0",
+  "minDeck": "1.18.0",
   "permissions": ["chat", "processes", "files"]
 }
