@@ -8,8 +8,8 @@ import { listen } from "deck-plugin-sdk/event";
 /** On the plugin's own page of Settings (no Deck group is named "chat"). */
 const IN = "chat";
 export const settings = [
-  { in: IN, key: "at", title: "Where the buttons sit", desc: "In the message box's row.",
-    choices: [["start", "Left, after the model"], ["end", "Right, before send"]], default: "start" },
+  { in: IN, key: "at", title: "Where the buttons sit", desc: "In the message box's row: left after the model, or right before send.",
+    choices: [["start", "Left"], ["end", "Right"]], default: "start" },
   { in: IN, key: "phone", title: "Capture the phone's screen", desc: "A button that puts the connected phone's screen in the message (adb).", default: true },
   { in: IN, key: "snip", title: "Snip the screen", desc: "A button that puts a snip of this screen in the message (Windows).", default: true },
   { in: IN, key: "tidy", title: "Tidy the draft", desc: "A button that has Claude rewrite your draft into a clear request, without sending it.", default: true },
